@@ -1,0 +1,12 @@
+{
+  "name": "head-shot-arena-tests",
+  "private": true,
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "http-server": "14.1.1",
+    "three": "0.128.0"
+  }
+}
